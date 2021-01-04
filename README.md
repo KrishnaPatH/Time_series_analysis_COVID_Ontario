@@ -1,0 +1,3 @@
+# Time_series_analysis_COVID_Ontario
+
+The goal of this project is to develop data science or machine learning models that forecast COVID-19 cases with the aim of helping policymakers plan for the days and months ahead, and take action to change the course of the pandemic for the better. In addition to modelling and projecting COVID-19 cases we will also use Ontario's historical temperature data as a secondary dataset, to understand how case numbers correlate to that dataset. As an output of this comparison we will outline some evidence-based insights, policies and guidelines that would help minimize the case numbers and related adverse effects.
